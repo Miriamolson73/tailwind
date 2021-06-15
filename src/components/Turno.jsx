@@ -1,6 +1,6 @@
 import React from 'react';
-import "tailwindcss/tailwind.css";
-// import '.src/index.css';
+// import "tailwindcss/tailwind.css";
+import '../index.css';
 const Turno = ({turno, eliminarTurno}) => (
         <div class="bg-blue-300 my-5 text-xl px-2 rounded grid grid-cols-2">
             <div>

@@ -5,7 +5,7 @@ import Formulario from './components/Formulario';
 import Turno from './components/Turno';
 
 import './index.css';
-import "tailwindcss/tailwind.css";
+// import "tailwindcss/tailwind.css";
 
 function App() {
 

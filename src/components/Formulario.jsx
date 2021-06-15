@@ -1,8 +1,8 @@
 import React, {Fragment, useState} from 'react';
 // import 'bootstrap/dist/css/bootstrap.css';
 import uuid from 'uuid/dist/v4';
-// import "./src/index.css";
-import "tailwindcss/tailwind.css";
+import "../index.css";
+// import "tailwindcss/tailwind.css";
 const Formulario = ({crearTurno}) => {
 
 // Creamos el state turnos
